@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Crystal_Clear_action_edit_add.png</file>
+        <file>image/Crystal_Clear_action_edit_remove.png</file>
+        <file>image/dialog-ok.png</file>
+        <file>image/document-open.png</file>
+        <file>image/document-save.png</file>
+        <file>image/edit-delete.png</file>
+        <file>image/go-next.png</file>
+        <file>image/Torchlight_help.png</file>
+    </qresource>
+</RCC>
